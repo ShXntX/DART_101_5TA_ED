@@ -1,0 +1,4 @@
+Sincronizar el fork y luego el pull 
+git config --global user.name "Santiago Vasquez"
+git config --global user.email "shanta2501@gmail.com"
+git pull
